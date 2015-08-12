@@ -2,6 +2,7 @@
 # The two functions below are used to create a special object that stores a 
 # matrix and cache's its inverse.
 
+
 # The first function, makeCacheMatrix  creates a list containing a function to:
 # 1. set the value of the matrix
 # 2. get the value of the matrix
